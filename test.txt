@@ -2,3 +2,4 @@ hello
 java
 hello world
 hello JVM
+hello socket
